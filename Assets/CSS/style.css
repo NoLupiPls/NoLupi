@@ -7,8 +7,22 @@ html {
 }
 body {
     margin: 0;
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
 }
+/*  SCROLL BAR  */
+body::-webkit-scrollbar {
+    width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+    background: #160622;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #ea0056;
+    border-radius: 20px;
+}
+
 /*  PRELOADER  */
 #preloader {
     position: fixed;

@@ -21,7 +21,7 @@ html {
 
 .containerCards {
   perspective: 1300px;
-  height: 100vh;
+  min-height: 100vh;
 }
 .cards {
   margin-left: 100px;
@@ -47,8 +47,8 @@ html {
   border-radius: 15px;
   box-shadow: 0 10px 20px 20px rgba(0, 0, 0, 0.17);
   display: inline-block;
-  margin-top: 15%;
-  /*margin-bottom: 12.75%;*/
+  margin-top: 10%;
+  margin-bottom: 10%;
   padding: 30px 35px;
   perspective: 1800px;
   text-align: left;
@@ -65,6 +65,7 @@ html {
   height: 250px;
   overflow: hidden;
   perspective: 1200px;
+  margin-top: 20px;
   margin-left: 40px;
   position: relative;
   transform-style: preserve-3d;
