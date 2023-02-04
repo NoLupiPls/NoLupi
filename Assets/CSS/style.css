@@ -83,6 +83,7 @@ body {
 .grTitle {
     max-height: 150px;
     color: transparent;
+    font-size: 7rem;
     -webkit-background-clip: text;
     background-clip: text;
     background-image: linear-gradient(315deg, fuchsia, red);
