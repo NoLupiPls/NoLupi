@@ -107,7 +107,7 @@ body {
 }
 
 .info {
-    position: absolute;
+    position: fixed;
     left: 0;
     right: 0;
     bottom: 0;
@@ -274,6 +274,7 @@ button:hover .button-text {
 }
 
 .contact__title {
+    font-size: 1.7rem;
     color: #f2f2f2;
     font-family: 'Quicksand', sans-serif;
 }
