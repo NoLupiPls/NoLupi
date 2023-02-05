@@ -1,6 +1,6 @@
 # NoLupi
 My web-site &amp; Portfolio
-<img class="imgg" src="https://github.com/NoLupiPls/NoLupi/Assets/Image/NoLupiPls-Website.png:"/>
+<img class="imgg" src="https://github.com/NoLupiPls/NoLupi/blob/main/Assets/Images/NoLupiPls-Website.png"/>
 <style>.imgg {border-radius: 5px;}</style>
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
