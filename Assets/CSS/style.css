@@ -83,6 +83,8 @@ body {
 .grTitle {
     max-height: 150px;
     color: transparent;
+    word-wrap: break-word;
+    -ms-word-wrap: break-word;
     font-size: 7rem;
     -webkit-background-clip: text;
     background-clip: text;
