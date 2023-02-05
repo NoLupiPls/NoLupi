@@ -1,7 +1,6 @@
 # NoLupi
 My web-site &amp; Portfolio
-<img class="imgg" src="https://github.com/NoLupiPls/NoLupi/blob/main/Assets/Images/NoLupiPls-Website.png"/>
-<style>.imgg {border-radius: 5px;}</style>
+<img class="imgg" style="border-radius: 5px;" src="https://github.com/NoLupiPls/NoLupi/blob/main/Assets/Images/NoLupiPls-Website.png"/>
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
