@@ -75,6 +75,7 @@ body::-webkit-scrollbar-thumb {
 
 
 body {
+    scroll-behavior: smooth;
     background: #160622;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -84,7 +85,7 @@ body {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .grTitle {
-    max-height: 150px;
+    /*max-height: 100px;*/
     color: transparent;
     word-wrap: break-word;
     -ms-word-wrap: break-word;
@@ -139,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 3rem;
     /*margin-top: 40%;*/
     padding-top: 17%;
-    line-height: 0.4;
+    line-height: 1;
     padding-left: 5%;
 }
 /*
