@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
 html {
     scroll-behavior: smooth;
 }
