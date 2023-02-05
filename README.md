@@ -1,6 +1,6 @@
 # NoLupi
 My web-site &amp; Portfolio
-![image](https://user-images.githubusercontent.com/108043131/216816178-eb370869-22c2-4ec3-af1c-86b5a472614b.png)
+![NoLupiPls-Website](https://user-images.githubusercontent.com/108043131/216816348-cff10df1-2907-41d3-8f49-9ceaef7c94cb.png)
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
